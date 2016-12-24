@@ -879,6 +879,11 @@ a, a:link, a:visited, a:hover, a:active
 	background-position:bottom left, bottom right;
 	background-repeat:no-repeat;
 }
+.ss {
+    color: #43a6f3;
+    font-size: 40px;
+}
+
 
 .snow-box:after
 {
